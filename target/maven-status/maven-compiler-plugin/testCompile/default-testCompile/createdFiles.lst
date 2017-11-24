@@ -1,0 +1,10 @@
+test\ServerStart.class
+test\ServerStart$1.class
+test\ServerStop.class
+demo\soap\SoapRunner.class
+demo\DemoTestParallel.class
+test\Stoppable.class
+demo\soap\SoapTest.class
+demo\TestBase.class
+demo\DemoTest.class
+test\MonitorThread.class
